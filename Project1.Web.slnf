@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "Project1.sln",
+    "projects": [
+      "src\\Client\\Project1.Client.Core\\Project1.Client.Core.csproj",
+      "src\\Client\\Project1.Client.Web\\Project1.Client.Web.csproj",
+      "src\\Server\\Project1.Server.Api\\Project1.Server.Api.csproj",
+      "src\\Server\\Project1.Server.Web\\Project1.Server.Web.csproj",
+      "src\\Shared\\Project1.Shared.csproj",
+      "src\\Tests\\Project1.Tests.csproj"
+    ]
+  }
+}
